@@ -1,7 +1,7 @@
 # 🦄 QA code challenge
 
 ## Description
-This project contains technical code challenge for QA Engineer interview. The code challenge's solution can be implemented either in `Protractor` or `Cypress`.
+This project contains technical code challenge for QA Engineer interview. The code challenge's solution can be implemented either in `Playwright` or `Protractor`.
 
 The files and folders are structured already and the `spec` files already contain skeleton code with **fill-in areas** (marked with `// type your code here...`), where the challenge's solution is expected to be filled in.
 
@@ -59,5 +59,4 @@ You might want to check the `shared/api.ts` file, as during the interview you mi
 
 ## Commands (depending on your preferences)
 
-- run tests in cypress: `npm run cypress`
-- run tests in protractor: `npm run protractor`
+- run tests in playwright: `npm run playwright`
