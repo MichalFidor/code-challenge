@@ -1,7 +1,7 @@
 # 🦄 QA code challenge
 
 ## Description
-This project contains technical code challenge for QA Engineer interview. The code challenge's solution can be implemented either in `Playwright` or `Protractor`.
+This project contains technical code challenge for QA Engineer interview. The code challenge's solution must be implemented using `Playwright` 
 
 The files and folders are structured already and the `spec` files already contain skeleton code with **fill-in areas** (marked with `// type your code here...`), where the challenge's solution is expected to be filled in.
 
